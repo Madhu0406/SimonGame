@@ -1,6 +1,4 @@
-Here's a comprehensive **README** file for your **Simon Game** project:
 
----
 
 # **Simon Game**
 
